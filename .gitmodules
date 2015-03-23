@@ -1,0 +1,6 @@
+[submodule ".vim/bundle/neobundle.vim"]
+	path = .vim/bundle/neobundle.vim
+	url = https://github.com/Shougo/neobundle.vim
+[submodule "/Users/dizakimbp/dotfiles/.vim/bundle/minibufexpl.vim"]
+	path = /Users/dizakimbp/dotfiles/.vim/bundle/minibufexpl.vim
+	url = git://github.com/fholgado/minibufexpl.vim
